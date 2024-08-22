@@ -1,4 +1,4 @@
-# # Cryptanalysis Lab and McEliece Paper Summary for the course Cryptology (1DT075)
+# Cryptanalysis Lab and McEliece Paper Summary for the course Cryptology (1DT075)
 
 ## Overview
 
